@@ -1,0 +1,62 @@
+[
+    {
+        "CourseID": 1,
+        "Title": "Web Development Bootcamp",
+        "Instructor": "Jerin K Joseph",
+        "Duration": "10 weeks",
+        "Rating": 4.8,
+        "Category": "Development",
+        "Price": 299.99,
+        "Enrolled": 1300
+    },
+    {
+        "CourseID": 2,
+        "Title": "Data Science with Python",
+        "Instructor": "Rohan Thomas",
+        "Duration": "8 weeks",
+        "Rating": 4.7,
+        "Category": "Data Science",
+        "Price": 249.99,
+        "Enrolled": 900
+    },
+    {
+        "CourseID": 3,
+        "Title": "Digital Marketing Masterclass",
+        "Instructor": "Raju Shankar",
+        "Duration": "6 weeks",
+        "Rating": 4.6,
+        "Category": "Marketing",
+        "Price": 199.99,
+        "Enrolled": 750
+    },
+    {
+        "CourseID": 4,
+        "Title": "Machine Learning",
+        "Instructor": "Triny Christopher",
+        "Duration": "12 weeks",
+        "Rating": 4.9,
+        "Category": "AI & Machine Learning",
+        "Price": 349.99,
+        "Enrolled": 1500
+    },
+    {
+        "CourseID": 5,
+        "Title": "Graphic Design for Beginners",
+        "Instructor": "Anosh Sibi",
+        "Duration": "4 weeks",
+        "Rating": 4.5,
+        "Category": "Design",
+        "Price": 149.99,
+        "Enrolled": 600
+    },
+    {
+        "CourseID": 6,
+        "Title": "Advanced Excel Techniques",
+        "Instructor": "Vishal Srinivas",
+        "Duration": "5 weeks",
+        "Rating": 4.7,
+        "Category": "Business",
+        "Price": 129.99,
+        "Enrolled": 800
+    }
+]
